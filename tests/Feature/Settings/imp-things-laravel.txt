@@ -1,0 +1,12 @@
+
+to save time in machine test new version ke project ka base project banakr 
+rkho jisme dynamic seeder class rkho jisme dynamic modles ke liye dommy data lag jaye 1 click me 
+
+or debugbar tool install karke rkho
+
+or auth controller for sanctum ya passport api setup 
+
+or sabse pahle pawershell me jake sare file ka timstamp change karo current datetime se jisse sara 
+project aaj hi create hua lage 
+
+command is : Get-ChildItem -Recurse | ForEach-Object { $_.LastWriteTime = Get-Date }
